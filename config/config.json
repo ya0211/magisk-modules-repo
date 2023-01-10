@@ -1,0 +1,9 @@
+{
+  "repo_name": "Sanmer Magisk Repo",
+  "repo_url": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/",
+  "repo_branch": "main",
+  "sync_mode": "git",
+  "max_num_module": "3",
+  "show_log": "true",
+  "log_dir": "log/"
+}

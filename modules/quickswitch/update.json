@@ -1,0 +1,13 @@
+{
+  "id": "quickswitch",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "v3.3.1",
+      "versionCode": 3310,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/quickswitch/v3.3.1_3310.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/quickswitch/v3.3.1_3310.md"
+    }
+  ]
+}

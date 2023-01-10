@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_clipboard_whitelist",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "v23",
+      "versionCode": 23,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_clipboard_whitelist/v23_23.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_clipboard_whitelist/v23_23.md"
+    }
+  ]
+}

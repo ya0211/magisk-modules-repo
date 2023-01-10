@@ -1,0 +1,13 @@
+{
+  "id": "safetynet-fix",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "v2.4.0",
+      "versionCode": 20400,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/safetynet-fix/v2.4.0_20400.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/safetynet-fix/v2.4.0_20400.md"
+    }
+  ]
+}

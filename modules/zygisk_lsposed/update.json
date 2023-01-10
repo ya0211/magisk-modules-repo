@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_lsposed",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "v1.8.5 (6649)",
+      "versionCode": 6649,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_lsposed/v1.8.5_(6649)_6649.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_lsposed/v1.8.5_(6649)_6649.md"
+    }
+  ]
+}

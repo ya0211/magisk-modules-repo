@@ -1,0 +1,13 @@
+{
+  "id": "zygisk-sui",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "v12.7.2",
+      "versionCode": 300,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.md"
+    }
+  ]
+}

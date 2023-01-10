@@ -1,0 +1,62 @@
+[
+  {
+    "id": "busybox-ndk",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
+    "license": ""
+  },
+  {
+    "id": "adb-ndk",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
+    "license": ""
+  },
+  {
+    "id": "zygisk_shamiko",
+    "update_to": "https://lsposed.github.io/releases/shamiko.json",
+    "license": ""
+  },
+  {
+    "id": "zygisk_lsposed",
+    "update_to": "https://lsposed.github.io/LSPosed/release/zygisk.json",
+    "license": ""
+  },
+  {
+    "id": "zygisk-sui",
+    "update_to": "https://rikkaapps.github.io/release/sui_zygisk.json",
+    "license": ""
+  },
+  {
+    "id": "zygisk-storage-isolation",
+    "update_to": "https://rikkaapps.github.io/release/si_zygisk.json",
+    "license": ""
+  },
+  {
+    "id": "HideNavBar",
+    "update_to": "HideNavBar.zip",
+    "license": ""
+  },
+  {
+    "id": "quickswitch",
+    "update_to": "https://raw.githubusercontent.com/skittles9823/QuickSwitch/master/QuickSwitch.json",
+    "license": ""
+  },
+  {
+    "id": "uperf",
+    "update_to": "https://github.com/yc9559/uperf/raw/master/version.json",
+    "license": ""
+  },
+  {
+    "id": "zygisk_ifw_enhance",
+    "update_to": "https://github.com/Kr328/Riru-IFWEnhance/releases/latest/download/zygisk-ifw-enhance.json",
+    "license": ""
+  },
+  {
+    "id": "zygisk_clipboard_whitelist",
+    "update_to": "https://github.com/Kr328/Riru-ClipboardWhitelist/releases/latest/download/zygisk-clipboard-whitelist.json",
+    "license": ""
+  },
+  {
+    "id": "safetynet-fix",
+    "update_to": "https://raw.githubusercontent.com/kdrag0n/safetynet-fix/master/update.json",
+    "license": ""
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_shamiko",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "v0.6 (126)",
+      "versionCode": 126,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_shamiko/v0.6_(126)_126.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_shamiko/v0.6_(126)_126.md"
+    }
+  ]
+}

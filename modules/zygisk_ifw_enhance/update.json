@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_ifw_enhance",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "v20",
+      "versionCode": 20,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_ifw_enhance/v20_20.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_ifw_enhance/v20_20.md"
+    }
+  ]
+}

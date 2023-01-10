@@ -1,0 +1,13 @@
+{
+  "id": "busybox-ndk",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "1.34.1",
+      "versionCode": 13413,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/busybox-ndk/1.34.1_13413.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/busybox-ndk/1.34.1_13413.md"
+    }
+  ]
+}
