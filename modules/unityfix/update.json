@@ -1,0 +1,13 @@
+{
+  "id": "unityfix",
+  "lastUpdate": 1673326625.741886,
+  "versions": [
+    {
+      "timestamp": 1673326625.741886,
+      "version": "5.0",
+      "versionCode": 5,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/unityfix/5.0.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/unityfix/5.0.md"
+    }
+  ]
+}
